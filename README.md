@@ -11,7 +11,7 @@
 
 <h4>Funcionalidades: <h4/>
 <table>
-<li>Teste de solo com geração de gráficos em prisma, que apontam taxa de umidade e densidade seca.
+<li>Teste de solo com geração de gráficos em prisma, que apontam taxa de umidade e densidade seca, e arquivamento de salvar gráficos gerados.
 
 
 <h4>Mais detalhes: <h4/>
