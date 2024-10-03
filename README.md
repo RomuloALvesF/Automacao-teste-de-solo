@@ -14,6 +14,4 @@
 <li>Teste de solo com geração de gráficos em prisma, que apontam taxa de umidade e densidade seca, e arquivamento de salvar gráficos gerados.
 
 
-<h4>Mais detalhes: <h4/>
-<p>Projeto desenvolvido para empresa BVP Engenharia</p>
-<table/>
+
